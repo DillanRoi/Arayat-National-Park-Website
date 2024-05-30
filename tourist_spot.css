@@ -266,6 +266,7 @@ nav{
   color: var(--text_trans);
 }
 
+
 .footer_bar{
   position: relative;
   max-width: var(--max_width);
@@ -288,4 +289,3 @@ nav{
   height: 2px;
   background-color: var(--text_color);
 }
-
